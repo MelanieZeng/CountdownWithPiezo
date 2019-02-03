@@ -8,8 +8,13 @@ This Timer can countdown for 5 minutes. It plays a melody once the button is pre
 **List of Parts**:
 
 1 Breadboard
+
 1 Particle Argon
+
 1 Piezo
+
 1 Push Button
+
 5 Jumper Wires
+
 1 USB Micro B Cable
